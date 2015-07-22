@@ -1,12 +1,17 @@
 # JumpToSystemSetting
-=====
+
+
 这个工程演示跳转到系统设置中的某一项，程序中显示的都是能正确跳转的。有些需要**真机**下才能跳转。
+
+-------------
+
 ![JumpToSystemSetting](https://github.com/zhanjiarong/JumpToSystemSetting/blob/master/JumpToSystemSetting.gif?raw=true)
 
---------------------
+-------------
 
 ## 跳转用到的 prefs
------
+
+
 **About** – prefs:root=General&path=About
 
 **Accessibility** – prefs:root=General&path=ACCESSIBILITY
